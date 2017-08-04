@@ -1,0 +1,111 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+
+#background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1px;
+	 height: 1px;
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ 
+#layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 1000px;
+	 z-index:1;
+} 
+
+
+#layer_1_0 
+{ 
+	 left: 206px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 503px;
+	 height: 43px;
+	 z-index:2;
+} 
+
+
+#layer_2 
+{ 
+	 left: 708px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 43px;
+	 z-index:3;
+} 
+
+ 
+#search 
+{ 
+	 left: 720px; 
+	 top: 95px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 20px;
+	 z-index:4;
+} 
+
+ 
+#layer_3 
+{ 
+	 left: 206px; 
+	 top: 121px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 28px;
+	 z-index:5;
+} 
+
+ 
+#layer_1_1 
+{ 
+	 left: 23px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 70px;
+	 z-index:6;
+} 
+
+ 
+#layer_7 
+{ 
+	 left: 221px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 11px;
+	 z-index:7;
+} 
+
+#form
+{
+float:left;
+border: 10px solid black;
+}
+
+#Octopoda 
+{ 
+	 left: 1px;
+	 top: 1px;
+	 position: absolute;
+	 width: 1px;
+	 height: 1px;
+	 z-index:8;
+} 
